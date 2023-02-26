@@ -4,7 +4,7 @@ import Board from "./components/Board"
 function App() {
   return (
     <div className="App">
-      <h1>KickStarter Game Board</h1>
+      <h1 className='title'>Kickstarter Game Board</h1>
       <Board />
     </div>
   )

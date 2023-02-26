@@ -15,7 +15,7 @@ export default function Card(props) {
                         <p>Pledged: {value.pledged}</p>
                         <p>Goal: {value.goal}</p>
                         <p>Backers: {value.backers}</p>
-                        <a className="card-link" href={value.link}>
+                        <a className="card-link" href={value.link} target="_blank">
                             <button>Kickstarter</button>
                         </a>
                     </div>
