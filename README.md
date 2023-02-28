@@ -2,7 +2,7 @@
 
 Submitted by: **Quang Nguyen**
 
-This web app: **insert description**
+This web app: **display the kickstarter games in card-view layout**
 
 Time spent: **10** hours spent in total
 
@@ -41,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Quang Nguyen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
