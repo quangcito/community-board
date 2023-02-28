@@ -2,7 +2,7 @@
 
 Submitted by: **Quang Nguyen**
 
-This web app: **display the kickstarter games in card-view layout**
+This web app: **display the kickstarter games in card-view layout using React**
 
 Time spent: **10** hours spent in total
 
