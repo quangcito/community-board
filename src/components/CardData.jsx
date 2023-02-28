@@ -80,6 +80,15 @@ const CardData = [
     backers: 9264,
     img: "src/assets/kingdom_death.png",
     link: "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15"
+  },
+  {
+    name: "Mika and the Witch's Mountain - delivery service adventure",
+    description: "Soar the sky on this adventure of Mika, an aspiring witch. Deliver packages to the inhabitants from the Island of Winds.",
+    pledged: 1017737,
+    goal: 42195,
+    backers: 18364,
+    img: "src/assets/mika_and_the_witch_mountain.png",
+    link: "https://www.kickstarter.com/projects/abraham-cozar/mika-and-the-witchs-mountain-delivery-service-adventure?ref=section-games-featured-project"
   }
 ];
 
