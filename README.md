@@ -29,7 +29,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://i.imgur.com/BmHTwRh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with [ezGIF]([Kap](https://getkap.co/))  
+GIF created with [ezGIF](https://ezgif.com/))  
 
 
 ## Notes
