@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Kickstarter Community Board*
+# Web Development Project 1 - *Kickstarter Game Board*
 
 Submitted by: **Quang Nguyen**
 
